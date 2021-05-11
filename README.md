@@ -1,2 +1,2 @@
 # test_jf
-This is first
+This is a test repository for KB.
